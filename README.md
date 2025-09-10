@@ -59,14 +59,13 @@ Repository owned by my teammate VEDANG2108.
 ---
 
 ## 📈 GitHub Stats  
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tanvilasare&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=tanvilalsare&show_icons=true&theme=radical" alt="GitHub Stats" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanvilalsare&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanvilasare&layout=compact&theme=radical" alt="Top Languages" />
-</p>
 
 ---
 
