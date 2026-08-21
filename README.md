@@ -1,78 +1,81 @@
 # 👋 Hey there, I'm Tanvi!
 
-### 🚀 Aspiring Software Developer & Machine Learning Enthusiast  
+🚀 Aspiring Software Developer , Data Analyst & Artificial Intelligence Machine Learning Enthusiast
+Final-year Computer Science (AI & ML) undergrad who loves building end-to-end systems — from normalized SQL databases and REST APIs to production ML pipelines — and solving real-world problems with code.
 
-_I’m a passionate Computer Science student who loves coding, innovation, and solving real-world problems._
+📫 lalsaretanvi@gmail.com | [LinkedIn](https://linkedin.com/in/tanvi-lalsare-b199a124a) | [LeetCode](https://leetcode.com/u/TanviLalsare) — 200+ problems solved
 
 ---
 
 ## 📝 Published Research
 
-I am a co-author of the research paper:
+**AnalySta: AI-Powered Stock Analysis Predict and Investment System**
+Published in *International Journal of All Research Education and Scientific Methods (IJARESM)*, Vol. 13, Issue 4, April 2025, pp. 2477–2488.
 
-**"AnalySta: AI-Powered Stock Analysis Predict and Investment System"**  
-Published in *International Journal of All Research Education and Scientific Methods (IJARESM)*, Vol. 13, Issue 4, April 2025, pages 2477-2488.
+Co-authored a paper on an LSTM- and BERT-based investment recommendation system achieving **91% accuracy**, combining real-time data, technical indicators, and social sentiment with SHAP-based explainability for transparent predictions.
 
-The paper proposes an AI-powered stock market prediction system using advanced techniques such as Long Short-Term Memory (LSTM) neural networks, sentiment analysis with BERT NLP models, and explainable AI (SHAP) to improve transparency and accuracy. The system integrates real-time data, technical indicators, and social sentiment to provide actionable investment recommendations with an interactive dashboard for visualization.
-
-🔗 [Journal Website](http://www.ijaresm.com)  
-🔗 [https://lnkd.in/d8yf7Ngi](https://lnkd.in/d8yf7Ngi)  
-🔗 [https://lnkd.in/dT9B-yyq](https://lnkd.in/dT9B-yyq)
+🔗 [Journal Website](http://www.ijaresm.com/)
 
 ---
 
 ## 💡 Skills & Technologies
 
-**Languages:**  
-`Python` `Java` `Kotlin` `HTML` `CSS` `JavaScript`
+**Languages:** `Java` `Python` `JavaScript` `Kotlin` 
 
-**Tools & Frameworks:**  
-`Git` `GitHub` `VS Code` `TensorFlow` `Docker`
+**Backend & Databases:** `SQL` `REST API Design` `Next.js` `Streamlit`
 
-**Interests:**  
-Machine Learning | AI | Cloud Computing | Android Development
+**CS Fundamentals:** Data Structures & Algorithms | OOP | DBMS | Operating Systems | Networking
+
+**Data & ML:** `Pandas` `scikit-learn` `TensorFlow` `LSTM` `System Design` `SHAP` `Power BI` `Excel`
+
+**Tools:** `Git` `GitHub` `VS Code` `Google Colab` `Android Studio`
+
+---
+
+## 💼 Experience
+
+**Machine Learning Intern — FOSSEE, IIT Bombay** *(Oct 2025 – Feb 2026)*
+Predicted crude oil composition (Aromatics, Naphthenes, Paraffins) from assay properties, building and comparing 7 modeling approaches (ANN, Random Forest, PLS regression, and more). Used repeated k-fold cross-validation to catch severe overfitting on a small dataset (53 samples, 13 features) and selected PLS regression as the most stable, best-generalizing model.
+
+**Technical Training Intern — India Space Lab** *(Jun 2025 – Jul 2025)*
+Hands-on training across Advanced Drone Systems, CubeSat & CanSat, Astronomy, Rocketry, and Remote Sensing — building systems-level thinking across hardware, embedded, and software components.
 
 ---
 
 ## 📂 Projects
 
-### [VitalHub](https://github.com/tanvilalsare/VitalHub)  
-An AI-powered healthcare platform offering preliminary health assessments, personalized recommendations, and medical information. Developed as part of Team 405 Found with Vedang Jitendra Garg and Lakshay Kalra.
+### [VitalHub](https://github.com/tanvilalsare/VitalHub) — AI Healthcare Backend Platform
+AI-powered healthcare platform used by 25+ community members. Designed REST APIs and database schema, and built an AI chatbot serving context-aware answers from curated medical resources.
+`Python` `SQL` `REST APIs` `AI Chatbot`
 
-**Key features:**  
-- AI Health Assistant powered by Google DialogFlow  
-- BMI calculator with Nutritional advice  
-- Comprehensive medical database  
+### [Exam Score Management System](https://github.com/tanvilalsare/exam-score-management-system) — SQL + Java/JDBC
+Normalized (3NF) relational schema with multi-table JOINs, GROUP BY/HAVING aggregations, and subqueries for score reporting. Added indexes on high-traffic foreign keys and verified query plans with EXPLAIN QUERY PLAN. Built a Java CRUD layer using JDBC with PreparedStatements and try-with-resources.
+`Java` `JDBC` `SQL` `SQLite` `Python`
 
-
-**Technologies:**  Kotlin, HTML5, CSS3, JavaScript, RESTful API, MySQL  
-
-### [CashWise](https://github.com/VEDANG2108/CashWise)  
-A team project for a financial management app, developed mainly using Jupyter Notebook and Kotlin.  
-Repository owned by my teammate VEDANG2108.
+### Analysta — AI-Based Stock Prediction & Financial Sentiment Analysis
+End-to-end ML pipeline (preprocessing, training, inference, SHAP explainability) shipped as an interactive Streamlit app for real-time predictions. Co-authored the accompanying published paper (see above).
+`Python` `TensorFlow` `LSTM` `BERT` `SHAP` `Streamlit`
 
 ---
 
-## 🔭 I’m currently working on new projects and exploring advanced machine learning models.  
-🤝 I’m open to collaboration and eager to work with others on exciting technical projects!
+## 🎓 Education
+
+**B.Tech, Computer Science (AI & ML)** — VIT Bhopal University *(2023 – Present)* | CGPA: 8.61/10.0
 
 ---
 
-## 📈 GitHub Stats  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tanvilalsare&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanvilalsare&layout=compact&theme=radical" alt="Top Languages" />
-</p>
+## 🏅 Certifications & Leadership
 
+- Android Development – Imarticus Learning
+- Digital Forensics Essentials – EC-Council
+- Core Member, AdVITya Discipline Committee
+- Former Sports Head, Student Council
+- State-level Basketball | National Karate Gold Medalist
 
 ---
 
-## 📫 Let's Connect!  
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tanvi-lalsare-b199a124a/)  
-[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tanvilalsare09@gmail.com)
+🔭 Currently grinding DSA and prepping for placements, while exploring advanced ML models and system design.
+🤝 Open to collaboration on interesting technical projects!
 
 ---
 
