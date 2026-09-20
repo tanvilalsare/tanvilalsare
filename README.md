@@ -3,7 +3,7 @@
 🚀 Aspiring Software Developer , Data Analyst & Artificial Intelligence Machine Learning Enthusiast
 Final-year Computer Science (AI & ML) undergrad who loves building end-to-end systems — from normalized SQL databases and REST APIs to production ML pipelines — and solving real-world problems with code.
 
-📫 lalsaretanvi@gmail.com | [LinkedIn](https://linkedin.com/in/tanvi-lalsare-b199a124a) | [LeetCode](https://leetcode.com/u/TanviLalsare) — 200+ problems solved
+📫 lalsaretanvi@gmail.com | [LinkedIn](https://linkedin.com/in/tanvi-lalsare-b199a124a) | [LeetCode](https://leetcode.com/u/TanviLalsare) — 250+ problems solved
 
 ---
 
